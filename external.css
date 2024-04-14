@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(93, 238, 238);
+    border: 0.5cm;
+}
+h1{
+    color: rgb(25, 159, 115);
+    background-color: azure;
+}
+p{
+    color: rgb(244, 196, 133);
+    background-color: rgb(16, 41, 226);
+}
